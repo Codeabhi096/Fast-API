@@ -1,13 +1,10 @@
 
-````markdown
 <div align="center">
 
 # 🚀 FastAPI Learning Journey  
 ### *Learning FastAPI step by step — from basics to advanced 🚀*
 
 </div>
-
----
 
 ## 📚 About This Repository
 
