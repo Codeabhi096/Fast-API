@@ -105,7 +105,7 @@ Interactive docs:
 ## 🧑‍💻 Author
 
 **Your Name**
-🌐 [GitHub](https://github.com/Codeabhi096)
+🌐 [Abhishek Bhardwaj](https://github.com/Codeabhi096)
 
 ---
 
