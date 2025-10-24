@@ -25,7 +25,7 @@ Each folder or file represents a **lesson or concept** — from basic routes to 
 - 🕗 Database Integration (SQLAlchemy)  
 - 🕗 Deployment  
 
-*(✅ = completed | 🕗 = coming soon)*  
+ 
 
 ---
 
